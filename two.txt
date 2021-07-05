@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this second file from issuenew branch
+=======
+this is conflict file
+>>>>>>> master
+this discussed with manager & both are file okay
